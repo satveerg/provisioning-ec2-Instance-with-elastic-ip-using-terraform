@@ -1,1 +1,1 @@
-# terraform-aws-ec2-instance-elasticIP
+Basic EC2 instance with Elastic IP 
