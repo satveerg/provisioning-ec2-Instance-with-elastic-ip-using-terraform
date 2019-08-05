@@ -3,7 +3,7 @@
 This project will be used to create an EC2 Instance using Terraform with Elastic IP associated with it.
 
 ## Getting Started
-create a .tf file below instructions 
+create a .tf file with below instructions 
 
 provider "aws" {
   profile    = "default"
